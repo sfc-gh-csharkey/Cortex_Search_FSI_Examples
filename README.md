@@ -12,6 +12,12 @@ For example the [NEWS_SEARCH](https://github.com/sfc-gh-csharkey/Cortex_Search_F
 
 The [Search NEWS_ARTICLES_SEARCH_INDEX.ipynb](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/blob/main/NEWS_SEARCH/Search%20NEWS_ARTICLES_SEARCH_INDEX.ipynb) in the [NEWS_SEARCH](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/tree/main/NEWS_SEARCH) folder demonstrates different ways to search previously created search service.
 
-Additonally the serch service can be tested via. the Snowsight UI playground
+The search service can also be tested via. the Snowsight UI playground. 
 
+To access the playground select the AI/ML services from the side bar, then search and finally click on the playground button.
 
+<img width="900" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/blob/main/READ_ME/Play_Ground_1.png">
+
+In the playground user interface select the search service, configure it using the right hand menu and search.
+
+<img width="900" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/blob/main/READ_ME/Play_Ground_2.png">
