@@ -1,2 +1,17 @@
 # Cortex Search News Article Search
-Work in progress - Example Cortex Search service for financial news.
+
+Cortex Search is a service that provides search capabilities (key word, vector, hybrid) on your data. The service is fully automated. You create a search service on a table, select the fields required for search, the embedding model to use, target lag and the data become searchable via. a Cortex Search service.
+
+## How to deploy / use the code sample(s)
+
+This repository assumes you have deployed the sample [Sample Financial Services Data](https://github.com/sfc-gh-csharkey/Sample_Data_Financial_Services) or at least the portions of it that are applicable to the search service you are trying to deploy.
+
+Each example has a folder. Each folder has a ```.sql``` file and ```.ipynb``` notebook.
+
+For example the [NEWS_SEARCH](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/tree/main/NEWS_SEARCH) folder has [Create NEWS_ARTICLES_SEARCH_INDEX.sql](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/blob/main/NEWS_SEARCH/Create%20NEWS_ARTICLES_SEARCH_INDEX.sql) that will create a search service on the ```NEWS_ARTICLES_SEARCH_INDEX``` table. 
+
+The [Search NEWS_ARTICLES_SEARCH_INDEX.ipynb](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/blob/main/NEWS_SEARCH/Search%20NEWS_ARTICLES_SEARCH_INDEX.ipynb) in the [NEWS_SEARCH](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/tree/main/NEWS_SEARCH) folder demonstrates different ways to search previously created search service.
+
+Additonally the serch service can be tested via. the Snowsight UI playground
+
+
