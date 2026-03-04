@@ -7,7 +7,7 @@ This repository assumes you have deployed the sample [Sample Financial Services 
 
 Each example has a folder. Each folder has a ```.sql``` file and ```.ipynb``` notebook.
 
-For example the [NEWS_SEARCH](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/tree/main/NEWS_SEARCH) folder has [Create NEWS_ARTICLES_SEARCH_INDEX.sql](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/blob/main/NEWS_SEARCH/Create%20NEWS_ARTICLES_SEARCH_INDEX.sql) that will create a search service on the ```NEWS_ARTICLES_SEARCH_INDEX``` table. 
+For example the [News_Search](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/tree/main/NEWS_SEARCH) folder has [Create NEWS_ARTICLES_SEARCH_INDEX.sql](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/blob/main/NEWS_SEARCH/Create%20NEWS_ARTICLES_SEARCH_INDEX.sql) that will create a search service on the ```NEWS_ARTICLES_SEARCH_INDEX``` table. 
 
 The [Search NEWS_ARTICLES_SEARCH_INDEX.ipynb](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/blob/main/NEWS_SEARCH/Search%20NEWS_ARTICLES_SEARCH_INDEX.ipynb) in the [NEWS_SEARCH](https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/tree/main/NEWS_SEARCH) folder demonstrates different ways to search previously created search service.
 
