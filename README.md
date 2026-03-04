@@ -1,5 +1,4 @@
-# Cortex Search News Article Search
-
+# Cortex Search Examples using synthetic Financial Services data
 Cortex Search is a service that provides search capabilities (key word, vector, hybrid) on your data. The service is fully automated. You create a search service on a table, select the fields required for search, the embedding model to use, target lag and the data become searchable via. a Cortex Search service.
 
 ## How to deploy / use the code sample(s)
