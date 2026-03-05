@@ -20,3 +20,6 @@ To access the playground select the AI/ML services from the side bar, then searc
 In the playground user interface select the search service, configure it using the right hand menu and search.
 
 <img width="900" alt="quick_setup" src="https://github.com/sfc-gh-csharkey/Cortex_Search_FSI_Examples/blob/main/READ_ME/Play_Ground_2.png">
+
+## Future Improvements
+1. Add an example adding a named scoring profile on a search service and using it via. Python, API etc.
