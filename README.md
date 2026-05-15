@@ -1,5 +1,5 @@
 # Cortex Search Examples using synthetic Financial Services data
-<img width="85" alt="map-user" src="https://img.shields.io/badge/views-073-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-013-green">
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-074-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-013-green">
 
 Cortex Search is a service that provides search capabilities (key word, vector, hybrid) on your data. The service is fully automated. You create a search service on a table, select the fields required for search, the embedding model to use, target lag and the data become searchable via. a Cortex Search service.
 
